@@ -1,0 +1,26 @@
+/* styles */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+.gens-wrapper-center {
+  position: relative;
+  width: 100%;
+  height: calc(100% - 56px);
+  /* background: -webkit-radial-gradient(center center, contain, rgba(0,150,0,1), black) center center no-repeat, black; */
+  background: -webkit-radial-gradient(center center, contain, rgba(100,100,0,1), black) center center no-repeat, black;
+  /* background: -webkit-radial-gradient(center 75%, contain, rgba(0,75,0,0.8), black) center center no-repeat, black; */
+  -webkit-background-size: 110% 100%;
+}  
+
+.gens-horiz-center {
+  position: absolute;
+  margin: auto;
+  top: 0; bottom: 0; left: 0; right: 0;
+  /* vertical-align: middle; */
+}
