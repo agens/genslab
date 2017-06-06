@@ -847,6 +847,9 @@ hr {
 .footer-content {
 	padding-top: 30px;
 }
+.footer-social {
+	text-align: center;
+}
 .footer .h5 {
 	display: block;
 }
@@ -876,6 +879,13 @@ hr {
 .footer a:focus, 
 .footer a:hover {
   color: rgba(0, 0, 0, 0.9);
+}
+.footer a img {
+  opacity: 0.85;
+}
+.footer a:focus img, 
+.footer a:hover img {
+  opacity: 1;
 }
 .footer-logo {
 	padding: 50px 0 20px;
