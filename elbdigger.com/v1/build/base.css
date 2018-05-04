@@ -902,4 +902,7 @@ hr {
 	.footer .separator {
 		display: inline;
 	}
+	.footer-terms {
+		text-align: center;
+	}
 }
