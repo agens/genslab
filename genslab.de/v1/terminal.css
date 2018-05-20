@@ -1,0 +1,28 @@
+/* 
+  Document   : terminal
+  Created on : 16.04.2011, 14:00:11
+  Author     : andy
+  Description:
+    Purpose of the stylesheet follows.
+*/
+
+/* 
+  TODO customize this sample style
+  Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+#impressum {
+  display: block;
+  position: absolute;
+  left: 0; top: 0;
+  visibility: hidden;
+}
+#forms-container {
+  display: block;
+  position: absolute;
+  left: 0; top: 0;
+  visibility: hidden;
+}
+
+
